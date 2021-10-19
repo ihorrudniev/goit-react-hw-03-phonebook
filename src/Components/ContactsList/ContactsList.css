@@ -1,0 +1,11 @@
+.ContactsList__item {
+  list-style-type: decimal;
+}
+
+.Contacts__item {
+  max-width: 400px;
+}
+
+.Contacts__btn {
+  margin-left: 10px;
+}

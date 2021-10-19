@@ -1,0 +1,8 @@
+.Form {
+  display: flex;
+  margin-left: 15px;
+  /* margin-right: auto; */
+}
+.Form__label {
+  margin-right: 5px;
+}
